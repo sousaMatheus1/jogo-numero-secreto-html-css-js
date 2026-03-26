@@ -45,7 +45,7 @@ O projeto foi construído e evoluído através de dois módulos fundamentais na 
 
 Você pode testar o jogo agora mesmo através do link abaixo:
 
-🔗 [Link do Jogo Online (Vercel)](INSIRA_AQUI_O_LINK_DO_SEU_DEPLOY)
+🔗 [Link do Jogo Online (Vercel)](https://jogo-numero-secreto-html-css-js.vercel.app/)
 
 **Instruções:**
 1. Digite um número no campo de entrada.
