@@ -8,7 +8,7 @@ Confira abaixo o visual e o funcionamento do projeto:
 
 > **📸 Dica:** Tire um print da tela do jogo (com o campo de entrada e o botão de chutar) e coloque na pasta do projeto.
 
-<img src="./assets/numero-secreto-demo.png" alt="Demonstração do Jogo do Número Secreto" width="100%">
+<img src="./img/project1.gif" alt="Demonstração do Jogo do Número Secreto" width="100%">
 
 ---
 
