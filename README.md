@@ -6,8 +6,6 @@ Este projeto é um jogo interativo de adivinhação onde o usuário tenta descob
 
 Confira abaixo o visual e o funcionamento do projeto:
 
-> **📸 Dica:** Tire um print da tela do jogo (com o campo de entrada e o botão de chutar) e coloque na pasta do projeto.
-
 <img src="./img/project1.gif" alt="Demonstração do Jogo do Número Secreto" width="100%">
 
 ---
